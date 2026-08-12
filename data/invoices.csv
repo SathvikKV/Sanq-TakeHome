@@ -1,0 +1,90 @@
+invoice_id,date,supplier_name,item_name,unit,quantity
+INV-1001,2026-08-08,Hyderabad Spice Traders,Star Anise,kg,16
+INV-1001,2026-08-08,Hyderabad Spice Traders,Tomato Ketchup,liters,7
+INV-1001,2026-08-08,Hyderabad Spice Traders,Turmeric Powder,kg,35
+INV-1001,2026-08-08,Hyderabad Spice Traders,Black Pepper,kg,20
+INV-1001,2026-08-08,Hyderabad Spice Traders,Butter,kg,9
+INV-1001,2026-08-08,Hyderabad Spice Traders,Tomatoes,kg,17
+INV-1002,2026-08-04,Metro Packaging Supplies,Cloves,kg,40
+INV-1002,2026-08-04,Metro Packaging Supplies,Tomato Ketchup,liters,29
+INV-1002,2026-08-04,Metro Packaging Supplies,Prawns,kg,17
+INV-1002,2026-08-04,Metro Packaging Supplies,Tofu,kg,26
+INV-1002,2026-08-04,Metro Packaging Supplies,Cheese Slices,kg,14
+INV-1002,2026-08-04,Metro Packaging Supplies,Ginger Garlic Paste,kg,39
+INV-1003,2026-08-07,Golden Grain Wholesalers,Nutmeg,kg,25
+INV-1003,2026-08-07,Golden Grain Wholesalers,Cinnamon Sticks,kg,36
+INV-1003,2026-08-07,Golden Grain Wholesalers,Cream,liters,29
+INV-1003,2026-08-07,Golden Grain Wholesalers,Garam Masala,kg,22
+INV-1004,2026-08-01,Deccan Fresh Produce,Condensed Milk,liters,5
+INV-1004,2026-08-01,Deccan Fresh Produce,Coffee Powder,kg,36
+INV-1004,2026-08-01,Deccan Fresh Produce,Butter,kg,9
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Bread Crumbs,kg,44
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Spinach,kg,12
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Ghee,kg,16
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Wheat Flour,kg,15
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Red Chili Powder,kg,45
+INV-1005,2026-08-09,Ravi & Sons General Provisions,Cheese Slices,kg,27
+INV-1006,2026-08-06,Golden Grain Wholesalers,Pizza Base,pieces,9
+INV-1006,2026-08-06,Golden Grain Wholesalers,Pickle,kg,16
+INV-1006,2026-08-06,Golden Grain Wholesalers,Garlic,kg,32
+INV-1006,2026-08-06,Golden Grain Wholesalers,Capsicum,kg,28
+INV-1006,2026-08-06,Golden Grain Wholesalers,Paneer,kg,15
+INV-1006,2026-08-06,Golden Grain Wholesalers,Potatoes,kg,7
+INV-1007,2026-08-09,Metro Packaging Supplies,Chili Sauce,liters,15
+INV-1007,2026-08-09,Metro Packaging Supplies,Mustard Seeds,kg,42
+INV-1007,2026-08-09,Metro Packaging Supplies,Pizza Base,pieces,5
+INV-1008,2026-08-06,Southern Dairy Co-op,Pickle,kg,20
+INV-1008,2026-08-06,Southern Dairy Co-op,Garam Masala,kg,15
+INV-1008,2026-08-06,Southern Dairy Co-op,Mustard Oil,liters,40
+INV-1008,2026-08-06,Southern Dairy Co-op,Capsicum,kg,9
+INV-1008,2026-08-06,Southern Dairy Co-op,Chili Sauce,liters,33
+INV-1008,2026-08-06,Southern Dairy Co-op,Condensed Milk,liters,31
+INV-1009,2026-08-08,Deccan Fresh Produce,Fish Fillet,kg,23
+INV-1009,2026-08-08,Deccan Fresh Produce,Cloves,kg,7
+INV-1009,2026-08-08,Deccan Fresh Produce,Cabbage,kg,31
+INV-1009,2026-08-08,Deccan Fresh Produce,Mustard Oil,liters,20
+INV-1010,2026-08-03,Southern Dairy Co-op,Nutmeg,kg,14
+INV-1010,2026-08-03,Southern Dairy Co-op,Turmeric Powder,kg,14
+INV-1011,2026-08-08,Deccan Fresh Produce,Onions,kg,35
+INV-1011,2026-08-08,Deccan Fresh Produce,Cooking Oil,liters,6
+INV-1011,2026-08-08,Deccan Fresh Produce,Yogurt,liters,18
+INV-1011,2026-08-08,Deccan Fresh Produce,Pizza Base,pieces,28
+INV-1012,2026-08-03,Golden Grain Wholesalers,Honey,liters,24
+INV-1012,2026-08-03,Golden Grain Wholesalers,Cardamom,kg,13
+INV-1012,2026-08-03,Golden Grain Wholesalers,Butter,kg,39
+INV-1012,2026-08-03,Golden Grain Wholesalers,Basmati Rice,kg,42
+INV-1012,2026-08-03,Golden Grain Wholesalers,Cloves,kg,22
+INV-1012,2026-08-03,Golden Grain Wholesalers,Ginger Garlic Paste,kg,13
+INV-1013,2026-08-01,Southern Dairy Co-op,Coffee Powder,kg,42
+INV-1013,2026-08-01,Southern Dairy Co-op,Chicken Thighs,kg,25
+INV-1013,2026-08-01,Southern Dairy Co-op,Cabbage,kg,20
+INV-1014,2026-08-10,Southern Dairy Co-op,Mango Pulp,liters,13
+INV-1014,2026-08-10,Southern Dairy Co-op,Black Pepper,kg,13
+INV-1014,2026-08-10,Southern Dairy Co-op,Vinegar,liters,14
+INV-1014,2026-08-10,Southern Dairy Co-op,Pav Buns,pieces,11
+INV-1015,2026-08-07,Deccan Fresh Produce,Chicken Thighs,kg,14
+INV-1015,2026-08-07,Deccan Fresh Produce,Cooking Oil,liters,9
+INV-1015,2026-08-07,Deccan Fresh Produce,Cinnamon Sticks,kg,12
+INV-1016,2026-08-05,Hyderabad Spice Traders,Milk,liters,36
+INV-1016,2026-08-05,Hyderabad Spice Traders,Pickle,kg,19
+INV-1016,2026-08-05,Hyderabad Spice Traders,Red Chili Powder,kg,44
+INV-1016,2026-08-05,Hyderabad Spice Traders,Black Pepper,kg,15
+INV-1017,2026-08-03,Hyderabad Spice Traders,Carrots,kg,7
+INV-1017,2026-08-03,Hyderabad Spice Traders,Coffee Powder,kg,43
+INV-1017,2026-08-03,Hyderabad Spice Traders,Soy Sauce,liters,37
+INV-1017,2026-08-03,Hyderabad Spice Traders,Cheese Slices,kg,8
+INV-1017,2026-08-03,Hyderabad Spice Traders,Vinegar,liters,5
+INV-1018,2026-08-07,Southern Dairy Co-op,Black Pepper,kg,41
+INV-1018,2026-08-07,Southern Dairy Co-op,Vinegar,liters,16
+INV-1019,2026-08-04,Golden Grain Wholesalers,Red Chili Powder,kg,24
+INV-1019,2026-08-04,Golden Grain Wholesalers,Soy Sauce,liters,23
+INV-1019,2026-08-04,Golden Grain Wholesalers,Mutton,kg,37
+INV-1019,2026-08-04,Golden Grain Wholesalers,Capsicum,kg,40
+INV-1019,2026-08-04,Golden Grain Wholesalers,Garam Masala,kg,36
+INV-1019,2026-08-04,Golden Grain Wholesalers,Tomatoes,kg,41
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Fish Fillet,kg,24
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Cream,liters,23
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Wheat Flour,kg,44
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Soy Sauce,liters,38
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Red Chili Powder,kg,40
+INV-1020,2026-08-02,Ravi & Sons General Provisions,Yogurt,liters,17
