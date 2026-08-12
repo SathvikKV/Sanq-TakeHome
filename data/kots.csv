@@ -1,0 +1,113 @@
+kot_id,date,item_name,unit,quantity
+KOT-501,2026-08-08,Condensed Milk,liters,2
+KOT-502,2026-08-03,Chili Sauce,liters,8
+KOT-502,2026-08-03,Cream,liters,8
+KOT-502,2026-08-03,Semolina,kg,9
+KOT-502,2026-08-03,Chicken Thighs,kg,9
+KOT-503,2026-08-08,Star Anise,kg,1
+KOT-503,2026-08-08,Prawns,kg,7
+KOT-503,2026-08-08,Spinach,kg,1
+KOT-503,2026-08-08,Chicken Thighs,kg,4
+KOT-504,2026-08-06,Tomato Ketchup,liters,4
+KOT-504,2026-08-06,Cardamom,kg,7
+KOT-504,2026-08-06,Bay Leaves,kg,7
+KOT-504,2026-08-06,Pav Buns,pieces,6
+KOT-505,2026-08-09,Besan,kg,2
+KOT-505,2026-08-09,Pizza Base,pieces,1
+KOT-506,2026-08-09,Butter,kg,10
+KOT-506,2026-08-09,Coriander Powder,kg,4
+KOT-507,2026-08-09,Capsicum,kg,8
+KOT-507,2026-08-09,Ginger Garlic Paste,kg,7
+KOT-507,2026-08-09,Pizza Base,pieces,5
+KOT-508,2026-08-08,Potatoes,kg,6
+KOT-509,2026-08-05,Condensed Milk,liters,3
+KOT-509,2026-08-05,Black Pepper,kg,2
+KOT-509,2026-08-05,Coffee Powder,kg,9
+KOT-510,2026-08-04,Yogurt,liters,5
+KOT-511,2026-08-08,Paneer,kg,4
+KOT-511,2026-08-08,Potatoes,kg,6
+KOT-511,2026-08-08,Coffee Powder,kg,6
+KOT-511,2026-08-08,Cardamom,kg,10
+KOT-512,2026-08-05,Eggs,pieces,6
+KOT-512,2026-08-05,Pickle,kg,9
+KOT-512,2026-08-05,Chicken Thighs,kg,5
+KOT-513,2026-08-04,Capsicum,kg,5
+KOT-513,2026-08-04,Wheat Flour,kg,7
+KOT-514,2026-08-04,Bay Leaves,kg,5
+KOT-514,2026-08-04,Black Pepper,kg,3
+KOT-514,2026-08-04,Cardamom,kg,7
+KOT-514,2026-08-04,Semolina,kg,10
+KOT-515,2026-08-06,Carrots,kg,4
+KOT-516,2026-08-02,Pav Buns,pieces,6
+KOT-516,2026-08-02,Besan,kg,1
+KOT-516,2026-08-02,Chili Sauce,liters,2
+KOT-517,2026-08-10,Black Pepper,kg,10
+KOT-518,2026-08-09,Capsicum,kg,3
+KOT-518,2026-08-09,Chicken Breast,kg,2
+KOT-518,2026-08-09,Pickle,kg,5
+KOT-518,2026-08-09,Milk,liters,4
+KOT-519,2026-08-09,Bread Crumbs,kg,3
+KOT-519,2026-08-09,Chicken Breast,kg,3
+KOT-519,2026-08-09,Coriander Powder,kg,10
+KOT-520,2026-08-08,Garlic,kg,4
+KOT-521,2026-08-08,Condensed Milk,liters,10
+KOT-521,2026-08-08,Cheese Slices,kg,10
+KOT-521,2026-08-08,Capsicum,kg,8
+KOT-521,2026-08-08,Spinach,kg,1
+KOT-522,2026-08-03,Cardamom,kg,4
+KOT-523,2026-08-04,Butter,kg,9
+KOT-524,2026-08-10,Ginger Garlic Paste,kg,3
+KOT-524,2026-08-10,Mango Pulp,liters,5
+KOT-524,2026-08-10,Pav Buns,pieces,3
+KOT-524,2026-08-10,Turmeric Powder,kg,6
+KOT-525,2026-08-06,Besan,kg,2
+KOT-525,2026-08-06,Chicken Breast,kg,2
+KOT-525,2026-08-06,Condensed Milk,liters,3
+KOT-526,2026-08-10,Mango Pulp,liters,4
+KOT-527,2026-08-07,Cumin Seeds,kg,1
+KOT-527,2026-08-07,Fish Fillet,kg,10
+KOT-527,2026-08-07,Potatoes,kg,8
+KOT-528,2026-08-06,Potatoes,kg,6
+KOT-528,2026-08-06,Mutton,kg,9
+KOT-528,2026-08-06,Paneer,kg,5
+KOT-528,2026-08-06,Spinach,kg,7
+KOT-529,2026-08-05,Tomato Ketchup,liters,7
+KOT-529,2026-08-05,Yogurt,liters,2
+KOT-530,2026-08-07,Cauliflower,kg,1
+KOT-530,2026-08-07,Cream,liters,6
+KOT-531,2026-08-10,Chicken Thighs,kg,6
+KOT-531,2026-08-10,Coffee Powder,kg,8
+KOT-532,2026-08-09,Nutmeg,kg,8
+KOT-532,2026-08-09,Cloves,kg,1
+KOT-533,2026-08-06,Cauliflower,kg,10
+KOT-534,2026-08-10,Garlic,kg,7
+KOT-535,2026-08-05,Chili Sauce,liters,1
+KOT-535,2026-08-05,Tea Leaves,kg,6
+KOT-535,2026-08-05,Naan Bread,pieces,3
+KOT-535,2026-08-05,Coriander Powder,kg,10
+KOT-536,2026-08-06,Vinegar,liters,7
+KOT-537,2026-08-04,Chili Sauce,liters,9
+KOT-537,2026-08-04,Milk,liters,7
+KOT-538,2026-08-05,Cream,liters,5
+KOT-538,2026-08-05,Cheese Slices,kg,8
+KOT-539,2026-08-07,Capsicum,kg,7
+KOT-540,2026-08-04,Milk,liters,6
+KOT-540,2026-08-04,Mustard Oil,liters,10
+KOT-540,2026-08-04,Bread Loaf,pieces,3
+KOT-541,2026-08-02,Basmati Rice,kg,4
+KOT-541,2026-08-02,Vinegar,liters,2
+KOT-541,2026-08-02,Chicken Thighs,kg,4
+KOT-541,2026-08-02,Mustard Oil,liters,9
+KOT-542,2026-08-10,Bread Crumbs,kg,2
+KOT-542,2026-08-10,Cream,liters,3
+KOT-542,2026-08-10,Ginger,kg,4
+KOT-543,2026-08-08,Honey,liters,4
+KOT-543,2026-08-08,Butter,kg,5
+KOT-543,2026-08-08,Vinegar,liters,3
+KOT-543,2026-08-08,Carrots,kg,7
+KOT-544,2026-08-08,Butter,kg,5
+KOT-544,2026-08-08,Ginger Garlic Paste,kg,1
+KOT-545,2026-08-10,Cauliflower,kg,6
+KOT-545,2026-08-10,Mutton,kg,10
+KOT-545,2026-08-10,Naan Bread,pieces,8
+KOT-545,2026-08-10,Bread Loaf,pieces,5
