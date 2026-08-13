@@ -1,5 +1,23 @@
 # Take Home Assessment: Inventory Ledger
 
+## How to Submit
+
+Fork this repository (or clone/download it) to get the starter files, then set up your own repository from it, public or private, your choice, and do your work there. **Do not commit to this repository**, it's for reference only.
+
+**Deadline:** Saturday, August 15, 2026, 5:00 PM IST
+
+If you need more time, reach out before the deadline to request an extension.
+
+When you're done, send the link to your repository to the email addresses listed in your interview invite, including:
+
+1. Your code (backend and frontend)
+2. `PROCESS.md`, filled in (copy it from this repo into yours as a starting point)
+3. Setup and run instructions for both backend and frontend
+4. Any other supporting documentation
+
+Commit as you go rather than in one final commit, we're interested in how the work progressed, not just the end state.
+
+
 ## The Situation
 
 A core feature of the inventory system is tracking stock accurately as it changes over time. Stock moves in two directions: it goes up when a delivery arrives (an invoice), and it goes down when food is prepared and served (a Kitchen Order Ticket, or KOT, sometimes called an indent).
@@ -14,7 +32,7 @@ Every invoice and every KOT is unique, no two contain the exact same set of item
 
 ## What's Different About This Dataset
 
-`current_inventory.csv` contains 53 baseline items. `invoices.csv` and `kots.csv` reference those 53 items, plus 8 additional items that are **not** in the baseline inventory at all. Those 8 items only show up because an invoice introduces them for the first time.
+`current_inventory.csv` contains 53 baseline items. `invoices.csv` and `kots.csv` reference those 53 items, plus 8 additional items that are not in the baseline inventory at all. Those 8 items only show up because an invoice introduces them for the first time.
 
 This means your system needs to handle two real cases:
 
@@ -41,11 +59,11 @@ A few things we do want, regardless of how you build it:
 
 Allow a user to create a new invoice or a new KOT directly, rather than only applying the ones we provided. This should let them:
 
-- Select items from a dropdown (populated from the existing inventory list)
+- Choose from existing inventory items, or enter the name of a brand-new item that doesn't exist yet
 - Enter a quantity for each item they add
-- Submit it as a new invoice (adds to inventory) or a new KOT (subtracts from inventory)
+- Submit it as a new invoice (adds to inventory, creating any new item as needed) or a new KOT (subtracts from inventory, and should fail clearly if any item on it doesn't exist yet, same as Tier 1)
 
-A user-created invoice or KOT should behave exactly like the provided ones once submitted, same grouping, same apply logic, same effect on inventory, including the same rule that a KOT can't reference an item that doesn't exist yet.
+A user-created invoice or KOT should behave exactly like the provided ones once submitted, same grouping, same apply logic, same effect on inventory.
 
 ## Stack
 
@@ -76,11 +94,3 @@ Pick any of these, however many you get to. Attempt them only after Tier 1 and T
 - A couple of automated tests around the apply logic specifically, since that's the part most likely to have a subtle bug
 
 A clean, fully working Tier 1 and Tier 2 beats an ambitious but broken attempt at the stretch goals.
-
-## What to Submit
-
-Push your work to this repository, committing as you go rather than in one final commit. We're interested in how the work progressed, not just the end state.
-
-1. Your code (backend and frontend)
-2. `PROCESS.md`, filled in
-3. Setup and run instructions for both backend and frontend
