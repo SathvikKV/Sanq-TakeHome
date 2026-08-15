@@ -4,7 +4,7 @@
 
 Fork this repository (or clone/download it) to get the starter files, then set up your own repository from it, public or private, your choice, and do your work there. **Do not commit to this repository**, it's for reference only.
 
-**Deadline:** Saturday, August 15, 2026, 5:00 PM IST
+**Deadline:** Saturday, August 17, 2026, 5:00 PM IST
 
 If you need more time, reach out before the deadline to request an extension.
 
